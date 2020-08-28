@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1598632188 source:c:\users\user\desktop\assignment1task2\main.cpp
+	<iostream>
+	"unsortedtype.h"
+	"studentinfo.h"
+
+1598631850 c:\users\user\desktop\assignment1task2\unsortedtype.h
+	"unsortedtype.tpp"
+
+1598631845 c:\users\user\desktop\assignment1task2\unsortedtype.tpp
+	"unsortedtype.h"
+	<iostream>
+
+1598631850 c:\users\user\desktop\assignment1task2\studentinfo.h
+	"studentinfo.tpp"
+
+1598631850 c:\users\user\desktop\assignment1task2\studentinfo.tpp
+	"studentinfo.h"
+
